@@ -17,7 +17,7 @@ Após instalar, use o comando abaixo no terminal para executar o projeto.
 
      node app.js
 
-<h1>Documentação:</h1> https://www.npmjs.com/package/readline-sync
+<strong>Documentação:</strong> https://www.npmjs.com/package/readline-sync
 </div>
 
 ### 💻 Tecnologias utilizadas
