@@ -24,18 +24,18 @@ Após instalar, use o comando abaixo no terminal para executar o projeto.
 ---
 
 <div align="center" style="display: inline_block">
-Iniciando o projeto
+<strong>Iniciando o projeto</strong>
 <br>
 <img src="https://user-images.githubusercontent.com/113939119/218336349-d9ea26a0-1b41-4281-8c36-eb00ff57d1cb.png">
 <br>
-Deixando o campo vazio
+<strong>Deixando o campo vazio</strong>
 <br>
 <img src="https://user-images.githubusercontent.com/113939119/218336216-cb96cb48-8329-43b5-bd86-467d30c4f4b4.png">
 <br>
-Pedindo para exibir os itens presentes na lista
+<strong>Pedindo para exibir os itens presentes na lista</strong>
 <img src="https://user-images.githubusercontent.com/113939119/218336239-4796c4b7-fbd6-4072-8c01-3eaecaf3a382.png">
 <br>
-Finalizando o projeto
+<strong>Finalizando o projeto</strong>
 <br>
 <img src="https://user-images.githubusercontent.com/113939119/218336241-9ccab598-ccde-4878-b03e-5121ecbc6e18.png">
 </div>
