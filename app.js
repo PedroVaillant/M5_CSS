@@ -1,66 +1,23 @@
-const redlineSync = require("readline-sync");
+// No terminal de "node app.js"
+
+// Importar o readline-sync
+const readlineSync = require("readline-sync");
 
 const lista = [];
-let   resp = "";
+var valor = 1;
 
-while (true) {
-  resp = redlineSync.question("Digite a propriedade CSS ou 'SAIR' para exibir a listagem e encerrar: ");
+console.log('Digite "EXIBIR" para ver a listagem ou "SAIR" para e encerrar a aplicação:');
 
-  if(resp == ''){
+while (valor != 0) {
+  var inserir = readlineSync.question("Digite uma propriedade do CSS: ");
+  inserir = inserir.toLowerCase();
 
-    console.log('Não deixe vazio!');
-    
- } else if (resp !='' && resp != 'sair'){
-
-  lista.push(resp);
-   continue;
-
-} else if (resp == 'sair'){
-
-  console.log(lista.sort());
-  break;
+  if (inserir == "sair") {
+    valor = 0, console.log("lista CSS:", lista.sort());
+  } else if (inserir == "exibir") {
+    console.log("lista CSS:", lista.sort());
+  } else if (inserir == "") {
+    console.log("Não deixe vazio!");
+  }
+  else (lista.push(inserir));
 }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-// const redlineSync = require("readline-sync");
-
-// const lista = [];
-// let   resp = "";
-
-// const adicionarNaLista = (prop) => {
-//   lista.push(prop);
-// };
-
-// const ordenar = () => {
-//   lista.sort();
-// };
-
-// const listar = () => {
-//   //console.log(lista); //Lista como objeto array
-//   //console.log(lista.toString()); //Lista array de string
-//   lista.forEach((elemento)=> { console.log(elemento); }); //Lista por linha como string
-// };
-
-// while (true) {
-//   resp = redlineSync.question("Digite a propriedade CSS ou 'SAIR' para exibir a listagem e encerrar: ");
-
-//   if (resp.toLowerCase() == "sair") {
-//     ordenar();
-//     listar();
-//   break;
- 
-//   } else if (resp.toLowerCase() !== "sair" && resp !=="") {
-//     adicionarNaLista(resp);
-//   }
-// }
