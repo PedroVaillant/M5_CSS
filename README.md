@@ -10,7 +10,7 @@ Projeto individual do 5º módulo, do curso Full-Stack Programadores Cariocas ju
 ### ⚙ Configurações
 <div align="center" style="display: inline_block">
 Para que possa executar este projeto, use o comando abaixo para instalar os arquivos necessários. 
- <div align="right">
+ <div align="left">
  Documentação: https://www.npmjs.com/package/readline-sync
  </div>
 
