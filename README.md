@@ -22,7 +22,8 @@ Após instalar, use o comando abaixo no terminal para executar o projeto.
 </div>
 <br>
 
-### Bla
+---
+
 <div align="center" style="display: inline_block">
 Iniciando o projeto
 <br>
@@ -40,6 +41,7 @@ Finalizando o projeto
 <img src="https://user-images.githubusercontent.com/113939119/218336241-9ccab598-ccde-4878-b03e-5121ecbc6e18.png">
 </div>
 
+---
 
 ### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
