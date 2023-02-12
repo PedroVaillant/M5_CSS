@@ -6,6 +6,7 @@ const readlineSync = require("readline-sync");
 const lista = [];
 var valor = 1;
 
+console.log("--------------------------------------------------------------------------");
 console.log('Digite "EXIBIR" para ver a listagem ou "SAIR" para e encerrar a aplicação:');
 
 while (valor != 0) {
@@ -14,6 +15,7 @@ while (valor != 0) {
 
   if (inserir == "sair") {
     valor = 0, console.log("lista CSS:", lista.sort());
+    console.log("--------------------------------------------------------------------------");
   } else if (inserir == "exibir") {
     console.log("lista CSS:", lista.sort());
   } else if (inserir == "") {
