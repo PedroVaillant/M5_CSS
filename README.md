@@ -13,7 +13,9 @@ Para que possa executar este projeto, use o comando abaixo para instalar os arqu
 
      npm install readline-sync
 
-bla
+Após instalar, use o comando abaixo no terminal para executar o projeto.
+
+     node app.js
 </div>
 
 ### 💻 Tecnologias utilizadas
