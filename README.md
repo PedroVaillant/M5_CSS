@@ -20,7 +20,6 @@ Após instalar, use o comando abaixo no terminal para executar o projeto.
 
 <strong>Documentação:</strong> https://www.npmjs.com/package/readline-sync
 </div>
-<br>
 
 ---
 
