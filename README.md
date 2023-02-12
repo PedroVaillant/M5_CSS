@@ -10,15 +10,14 @@ Projeto individual do 5º módulo, do curso Full-Stack Programadores Cariocas ju
 ### ⚙ Configurações
 <div align="center" style="display: inline_block">
 Para que possa executar este projeto, use o comando abaixo para instalar os arquivos necessários. 
- <div align="left">
- Documentação: https://www.npmjs.com/package/readline-sync
- </div>
 
      npm install readline-sync
 
 Após instalar, use o comando abaixo no terminal para executar o projeto.
 
      node app.js
+
+<h1>Documentação:</h1> https://www.npmjs.com/package/readline-sync
 </div>
 
 ### 💻 Tecnologias utilizadas
