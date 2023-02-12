@@ -8,6 +8,13 @@ Projeto individual do 5º módulo, do curso Full-Stack Programadores Cariocas ju
 ### 📰 Sobre o projeto
 
 ### ⚙ Configurações
+<div align="center" style="display: inline_block">
+Para que possa executar este projeto, use o comando abaixo para instalar os arquivos necessários. 
+
+     npm install readline-sync
+
+bla
+</div>
 
 ### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">

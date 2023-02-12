@@ -7,7 +7,7 @@ const lista = [];
 var valor = 1;
 
 console.log("--------------------------------------------------------------------------");
-console.log('Digite "EXIBIR" para ver a listagem ou "SAIR" para e encerrar a aplicação:');
+console.log('Digite "EXIBIR" para ver a listagem ou "SAIR" para e encerrar o projeto:');
 
 while (valor != 0) {
   var inserir = readlineSync.question("Digite uma propriedade do CSS: ");
