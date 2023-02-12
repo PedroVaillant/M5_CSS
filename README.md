@@ -27,7 +27,7 @@ exibir
 sair
 <img src="https://user-images.githubusercontent.com/113939119/218336241-9ccab598-ccde-4878-b03e-5121ecbc6e18.png">
 inicando
-<img src="https://user-images.githubusercontent.com/113939119/218336311-f6698f06-fdbf-4615-8ac4-08f3bf0c1945.png">
+<img src="https://user-images.githubusercontent.com/113939119/218336349-d9ea26a0-1b41-4281-8c36-eb00ff57d1cb.png">
 
 ### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
