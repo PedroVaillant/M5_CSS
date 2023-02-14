@@ -2,12 +2,8 @@ const readlineSync = require("readline-sync");
 
 const lista = [];
 
-console.log(
-  "--------------------------------------------------------------------------"
-);
-console.log(
-  'Digite "EXIBIR" para ver a listagem ou "SAIR" para e encerrar o projeto:'
-);
+console.log("--------------------------------------------------------------------------");
+console.log('Digite "EXIBIR" para ver a listagem ou "SAIR" para e encerrar o projeto:');
 
 while (true) {
   var inserir = readlineSync.question("Digite uma propriedade do CSS: ");
